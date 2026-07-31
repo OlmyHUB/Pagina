@@ -1,0 +1,42 @@
+body {
+    background-color:#386890;
+    font-family: "Black Ops One", system-ui;
+    text-align: center;
+    font-size:xx-large;
+    letter-spacing: 1px;
+    color: white;
+}
+
+body>h2{
+    font-size: xx-large;
+    font-family: 'Aldrich',cursive;
+    margin-bottom: 30px;
+    margin-top: 130px;
+    
+}
+
+div{
+    background-color: #386890;
+    color: white;
+    font-size: small;
+    letter-spacing: 2px;
+    font-family: 'Aldrich',cursive;
+    border-radius: 20%;
+}
+div>a{
+    color: white;
+    font-size: x-large;
+    font-family: 'Aldrich',cursive;
+    margin-bottom: 40px;
+    display: block;
+}
+
+.icono {
+  position: absolute;
+  left:747px;
+  top:120px;
+  font-size: 30px;  
+  color:white;         
+  margin: auto;      
+  text-align: center;
+}
